@@ -1,0 +1,11 @@
+    public FIELD_TYPE PREFIX_FIELD_TYPE
+    {
+        get
+        {
+            if (pREFIX_FIELD_TYPE == null)
+            {
+                pREFIX_FIELD_TYPE = GetComponent<FIELD_TYPE>();
+            }
+            return pREFIX_FIELD_TYPE;
+        }
+    }

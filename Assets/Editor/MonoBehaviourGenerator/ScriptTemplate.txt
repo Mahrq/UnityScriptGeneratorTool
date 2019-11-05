@@ -1,0 +1,10 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SCRIPT_NAME : MonoBehaviour
+{
+COMPONENT_TEMPLATE
+METHOD_TEMPLATE
+COMPONENT_PROPERTY_TEMPLATE
+}
